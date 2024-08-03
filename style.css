@@ -1,0 +1,377 @@
+*{
+    
+    font-family: "Noto Sans", sans-serif;
+}
+
+
+ .parallax{
+    background-image: url('https://luxurylaunches.com/wp-content/uploads/2022/10/jacob-and-co-godfather-watch.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+ }
+ nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+ }
+ nav ul li a{
+    color:white ;
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    
+
+
+ }
+
+
+ .navbar ul li a:hover{
+  color: red;
+  
+  
+ }
+ .navbar{
+    background-color: black;
+    
+ }
+ .co{
+    height: 40px;
+    width: 260px;
+ }
+ .watch{
+    background-image: url('https://monochrome-watches.com/wp-content/uploads/2022/12/Jacob-Co-x-CR7-Epic-X-Heart-of-CR7-diamonds-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    width: 100%;
+ }
+
+ .yy{
+    display: flex;
+
+ }
+ .jj{
+    
+    /* font-size: 35PX; */
+    
+    
+        font-family: "Noto Sans", sans-serif;
+        font-weight: 200;
+        font-family: PP Editorial New;
+        color: #d9d9d9;
+        font-size: 100px;
+
+
+
+ }
+ .uu{
+    position: absolute;
+    margin-left: 100px;
+    /* top: 450px; */
+    top: 800px;
+    
+ }
+ .oo{
+    
+    
+    
+        font-family: "Noto Sans", sans-serif;
+        font-weight: 200;
+        font-family: PP Editorial New;
+        color:rgb(74, 190, 74);
+        font-size: 84px;
+        margin: 30px;
+    
+
+    
+    
+    font-size: 35px;
+    font-weight: bold;
+    margin: 20px;
+ }
+ .ty{
+    
+        
+        color: white;
+        margin: 20px;
+        font-family: "Lora", serif;
+      }
+        
+ 
+ .kk{
+    position: absolute;
+    top: 1250px;
+    margin-left:30PX ;
+ }
+ .btn{
+    margin: 20px;
+ }
+ .st{
+    background-image: url('https://www.watchonista.com/sites/default/files/styles/799x0/public/watchographer/1/paragraphs/491804/pictures/jacob-co.-bugatti-chiron-tourbillon-06.jpg?itok=t0daYuTi&timestamp=1620723943');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    background-attachment: fixed;
+
+    
+ }
+ 
+
+
+ 
+ .cr7{
+    display: flex;
+    
+ }
+ .ee{
+   text-align: center;
+   padding: 30px;
+   color: rgb(225, 28, 28);
+   font-weight: bold;
+   font-size: 90px;
+ }
+ 
+ .st{
+   padding: 200px;
+   
+
+ }
+ .lo{
+   color: whitesmoke;
+   
+      font-family: "Lora", serif;
+ }
+ .tom{
+   
+   height: 534px;
+   display: flex;
+   
+   
+    background-color:black;
+   
+ }
+ .ii{
+   color: blue;
+   font-weight: bold;
+   font-size: 30px;
+   margin: 30px;
+
+ }
+ .re{
+   padding: 50px;
+ }
+ .ml{
+   font-size: 25px;
+   margin: 30px;
+   color:rgb(64, 64, 141);
+ }
+ .arnold{
+   height: 500px;
+   width: 800px;
+ }
+ .strap{
+   display: flex;
+   
+ }
+ .ramos{
+   height:500px ;
+   width: 850px;
+ }
+ .casino{
+   background-image: url('https://image.dynamixse.com/crop/1400x525/webp.png-lossy-85.q80/https://dynamix-cdn.s3.amazonaws.com/jacobandcocom/jacobandcocom_223314127.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   width: 100%;
+   height: 1000px;
+
+ }
+ .yo{
+   padding:250px;
+ 
+   height: 750px;
+   top: 50px;
+   
+ }
+ .it{
+   height: 500px;
+   width: 100%;
+ }
+ .spec{
+   background-image: url('https://supercarblondie.com/wp-content/uploads/Jacob-and-Co-Billionaire-Double-Tourbillon-feature-image.jpg');
+
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   width: 100%;
+   height: 1200px;
+
+
+
+ }
+ .iop{
+   text-align: center;
+   position: absolute;
+   margin-left: 99px;
+   top: 980%;
+
+   
+ }
+ .vb{
+   font-family: "Noto Sans", sans-serif;
+        font-weight: 200;
+        font-family: PP Editorial New;
+        color: #d9d9d9;
+        font-size: 84px;
+
+
+ }
+ .BV{
+   font-family: "Noto Sans", sans-serif;
+        font-weight: 200;
+        font-family: PP Editorial New;
+        color: #d9d9d9;
+        font-size: 60px;
+        text-align: center;
+
+ }
+ .bm{
+   font-family: "Noto Sans", sans-serif;
+        font-weight: 200;
+        font-family: PP Editorial New;
+        color: #d9d9d9;
+        font-size: 84px;
+        text-align: center;
+
+ }
+ .santos{
+   background-color: black;
+   background-attachment: fixed;
+   height: 759px;
+   
+   
+ }
+ .line{
+   background-color: gray;
+   height: 2px;
+   width: 200px;
+   border-radius: 20px;
+   margin-left: 43%;
+
+ }
+ .tr{
+   padding: 30px;
+ }
+ .ol{
+   color: whitesmoke;
+   
+      font-family: "Lora", serif;
+      margin: 20px;
+      font-size: 20px;
+      font-weight: 400;
+ }
+ .emrald{
+   background-image: url('https://image.dynamixse.com/crop/1400x525/webp.png-lossy-85.q80/https://dynamix-cdn.s3.amazonaws.com/jacobandcocom/jacobandcocom_731432116.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   width: 100%;
+   height: 1250px;
+   
+   
+
+ }
+ .benz{
+  font-family: "Noto Sans", sans-serif;
+        font-weight: 200;
+        font-family: PP Editorial New;
+        color:#d9d9d9;
+        font-size: 84px;
+        margin: 30px;
+
+ }
+ .pol{
+  padding: 40px;
+  text-align:start;
+
+  
+  
+ }
+ .hill{
+  background-color: gray;
+   height: 2px;
+   width: 200px;
+   border-radius: 20px;
+   margin-left: 350px;
+   
+
+ }
+ .yook{
+  margin: 20px;
+  padding: 20px;
+
+ }
+ .lo{
+  margin: 15px;
+ }
+ .ney{
+  background-attachment: fixed;
+  background-color: black;
+  height: 800px;
+  background-attachment: fixed;
+ }
+ .geo{
+  background-color: black;
+  height: 759px;
+  background-attachment: fixed;
+ }
+ .arr{
+  background-color: black;
+  height: 759px;
+ }
+ 
+ 
+ .part{
+  display:flex ;
+  justify-content: space-evenly;
+  background-color: black;
+  height: 950px;
+
+ 
+ }
+ .told{
+  border-radius: 40px;
+  height: 900px;
+  width: 550px;
+  
+ }
+ .bur{
+  height: 900px;
+  width: 600px;
+
+ }
+ .cold{
+  height: 700px;
+  width: 500px;
+  border-radius: 40px;
+ }
+ .tech{
+  height: 250px;
+  width: 1500px;
+  margin-left: 50px;
+ }
+ .nan{
+  background-color: gray;
+  height: 2px;
+  width: 1570px;
+  border-radius: 20px;
+  margin: 20px;
+  
+
+ }
+ 
+ 
